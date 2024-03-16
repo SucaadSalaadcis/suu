@@ -11,7 +11,7 @@ function About() {
     <div className="w-full md:w-1/2 lg:w-2/3 pl-10 bg-gradient-to-tr  text-white rounded-2xl  from-red-800 to-gray-400 ">
       <h1 className="text-4xl font-bold mb-3 text-white">About me</h1>
       <div className="text-lg text-white">
-     <p>Birthday : 20 sep </p> 
+     <p>Birthday : 10 sep </p> 
     <p> City : Mogadisho</p>
      <p>  Degree : CS </p>
      <p>  Email : sususalax393@gmail.com </p>
