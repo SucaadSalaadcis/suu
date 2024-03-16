@@ -4,7 +4,7 @@ import img1 from "../../src/assets/img/s2.png"
 
 function About() {
   return (
-    <div className="flex flex-wrap items-center justify-center mx-auto max-w-4xl p-8 mt-24">
+    <div className="flex flex-wrap items-center justify-center mx-auto max-w-4xl p-8 mt-5 md:mt-24">
     <div className="w-full md:w-1/2 lg:w-1/3 p-4  ">
       <img src={img1} alt="About Us" className="rounded-lg shadow-md " />
     </div>
