@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .active {
+    border: white solid 2px;
+    width: 200px;
+} */
